@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Langkah menjalankan project
+## Langkah menjalankan project ( HENRI HERDIYANTO )
 1. simpan repository ini di local anda
 2. jalankan phpmyadmin
 3. php artisan serve
